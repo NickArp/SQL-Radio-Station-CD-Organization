@@ -1,0 +1,13 @@
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('1', 'A2 1311', 'Giant Steps', 1960, 'Atlantic');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('2', '83012-2', 'Swing', 1977, 'Atlantic');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('3', '538256', 'Lost on You', 2016, 'Alert Music');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('4', '15689 9', 'The Long Road Home', 2017, 'Earache');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('5', 'A4 4455', 'Tom Cat', 1980, 'Blue Note');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('6', 'B8 3443', 'Quite A While', 1987, 'Vagrant');
+
+INSERT INTO `Eva_db`.`cd` (`cdid`, `cdlblid`, `cdtitle`, `cdyear`, `lbltitle`) VALUES ('7', '678547', 'What\'s Going On', 1971, 'Motown');

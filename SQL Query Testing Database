@@ -1,0 +1,33 @@
+SELECT t.trkid, c.comptitle, r.rcdlength, r.rcddate
+FROM cd AS d
+JOIN track AS t ON d.cdid = t.cdid
+JOIN recording AS r ON t.rcdid = r.rcdid
+JOIN composition AS c ON r.compid = c.compid
+WHERE d.cdtitle = 'Swing';
+/*Lists the Tracks on "Swing"*/
+
+SELECT p.psnfname, p.psnlname
+FROM person AS p
+JOIN person_composition AS pc ON p.psnid = pc.psnid
+JOIN composition AS c ON pc.compid = c.compid
+WHERE c.comptitle = 'Spiral';
+/*Composers for the track "Spiral"*/
+
+SELECT psn.psnfname, psn.psnlname, pr.psncdprole
+FROM person AS psn
+JOIN person_recording AS pr ON psn.psnid = pr.psnid
+JOIN recording AS r ON pr.rcdid = r.rcdid
+JOIN track AS t ON r.rcdid = t.rcdid
+JOIN cd AS c ON t.cdid = c.cdid
+WHERE c.cdtitle = 'Giant Steps II' 
+AND r.rcddate = '1959-05-04';
+/*Instrumentalists for "Giant Steps II" (May 4th Recording)*/
+
+SELECT DISTINCT p.psnfname, p.psnlname
+FROM person AS p
+JOIN person_composition AS pc ON p.psnid = pc.psnid
+JOIN composition AS c ON pc.compid = c.compid
+JOIN person_recording AS pr ON p.psnid = pr.psnid
+WHERE pc.psncomprole = 'music' 
+AND pr.psncdprole = 'tenor sax';
+/*Composers who also play Tenor Sax*/

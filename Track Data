@@ -1,0 +1,121 @@
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('1', '1', 'GIANT STEPS', '4.72', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('2', '2', 'COUSIN MARY', '5.75', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('3', '3', 'COUNTDOWN', '2.35', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('4', '4', 'SPIRAL', '5.93', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('5', '5', 'SYEEDA\'S SONG FLUTE', '7.0', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('6', '6', 'NAIMA2', '4.35', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('7', '7', 'MR. P.C.', '6.95', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('8', '8', 'GIANT STEPS', '3.67', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('9', '9', 'NAIMA3', '4.45', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('10', '10', 'COUSIN MARY2', '5.9', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('11', '11', 'COUNTDOWN2', '4.55', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('12', '12', 'SYEEDA\'S SONG FLUTE', '7.03', '1');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('13', '1', 'STOMP OF KING PORTER', '3.2', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('14', '2', 'SING A STUDY IN BROWN', '2.85', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('15', '3', 'SING MOTEN\'S SWING', '3.6', '2');
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('16', '4', ' A-TASKET', '2.95', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('17', '5', 'I KNOW WHY', '3.57', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('18', '6', 'SING YOU SINNERS', '2.75', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('19', '7', 'JAVA JIVE', '2.85', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('20', '8', 'DOWN SOUTH CAMP MEETIN', '3.25', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('21', '9', 'TOPSY', '3.23', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('22', '10', 'CLOUDS', '7.2', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('23', '11', 'SKYLINER', '3.18', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('24', '12', 'IT\'S GOOD ENOUGH TO KEEP', '3.18', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('25', '13', 'CHOO CHOO CH\' BOOGIE', '3.0', '2');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('26', '1', 'MUDDY WATERS', '3.49', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('27', '2', 'LOST ON YOU', '4.28', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('28', '3', 'Strange', '3.55', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('29', '4', 'DEATH VALLEY', '2.52', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('30', '5', 'OTHER PEOPLE', '4.05', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('31', '6', 'LOST ON YOU (LIVE)', '5.11', '3');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('32', '1', 'FEEL HAPPY', '4.04', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('33', '2', 'IN MY SHOES', '3.34', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('34', '3', 'ALANA LOVES ME', '4.08', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('35', '4', 'PATIO LANTERNS', '4.04', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('36', '5', 'THAT\'S THE HOLD', '3.34', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('37', '6', 'IN YOUR ARMS', '4.08', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('38', '7', 'CITY GIRL', '3.24', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('39', '8', 'EASY TO TAME', '3.59', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('40', '9', 'CAMEO SPIRIT', '4.12', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('41', '10', 'HITTING THE GROUND', '5.45', '4');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('42', '1', 'TOM CAT2', '9.42', '5');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('43', '2', 'EXOTIQUE', '9.31', '5');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('44', '3', 'TWICE AROUND', '7.32', '5');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('45', '4', 'TWILIGHT MIST', '6.54', '5');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('46', '5', 'RIGORMORTIS', '7.28', '5');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('47', '1', 'PARIS', '4.1', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('48', '2', 'MEXICO', '2.24', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('49', '3', 'ANYONE BUT ME', '3.35', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('50', '4', 'HIGH IN THE SKY', '4.12', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('51', '5', 'NEW YORK', '1.5', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('52', '6', 'QUITE A WHILE', '3.35', '6');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('53', '1', 'WHAT\'S GOING ON', '3.53', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('54', '2', 'WHAT\'S HAPPENING BROTHER', '2.43', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('55', '3', 'FLYIN\' HIGH', '3.49', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('56', '4', 'SAVE THE CHILDREN', '4.03', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('57', '5', 'GOD IS LOVE', '1.41', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('58', '6', 'MERCY', '3.16', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('59', '7', 'RIGHT ON', '7.32', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('60', '8', 'WHOLY HOLY', '3.07', '7');
+
+INSERT INTO `Eva_db`.`track` (`trkid`, `trknum`, `trktitle`, `trklength`, `cdid`) VALUES ('61', '9', 'INNER CITY BLUES', '5.38', '7');

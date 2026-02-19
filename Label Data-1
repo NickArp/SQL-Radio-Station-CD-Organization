@@ -1,0 +1,9 @@
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Alert Music', '51 Hillsview Ave.', 'Toronto', 'ON', 'M6P 1J4', 'CA');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Atlantic', '75 Rockefeller Plaza', 'New York', 'NY', '10019', 'USA');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Blue Note', '1750 N. Vine St.', 'Hollywood', 'CA', '90028', 'USA');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblpostcode`, `lblnation`) VALUES ('Earache', '1 Westminster Bldgs', 'Nottingham', 'NG1 6LG', 'UK');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Mercury', '323 Broadway', 'New York', 'NY', '10019', 'USA');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Motown', '2110 Colorado Ave', 'Santa Monica', 'CA', '90404', 'USA');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblpostcode`, `lblnation`) VALUES ('Parlophone', '27 Wrights Lane', 'London', 'W8 5SW', 'UK');
+INSERT INTO `Eva_db`.`label` (`lbltitle`, `lblstreet`, `lblcity`, `lblstate`, `lblpostcode`, `lblnation`) VALUES ('Vagrant', '566 W. Washington Blvd', 'Los Angeles', 'CA', '90016', 'USA');
+
